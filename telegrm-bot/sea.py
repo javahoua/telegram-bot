@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # توکن ربات
-TOKEN =os.getenv("7774570069:AAHBlnCoyIFN0Dp5HYsW2kvzp-YxBvX5cx8")
+TOKEN ="7774570069:AAHBlnCoyIFN0Dp5HYsW2kvzp-YxBvX5cx8"
 
 
 # آدرس API
